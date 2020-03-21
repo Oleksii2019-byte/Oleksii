@@ -87,4 +87,4 @@ color('red')
 goto(0,0)
 
 if arget < vidmiruvach:
-    write("GOOD GOD!!!",font=("Arial",30, "normal"))
+    write("GOOD GOB!!!",font=("Arial",30, "normal"))
